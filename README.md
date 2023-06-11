@@ -34,5 +34,7 @@ Simulasi aktuasi, dengan pemanas atau pendingin, keluarannya tetap, dengan sinya
 
 # Program
 
-"SAWANGEN DEWE NAK PATH E !"
+in this path .ino in the TA3 folder 
+and TA3.pdsprj this path for proteus file
+
 
